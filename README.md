@@ -40,7 +40,7 @@ Deep learning-based system for food recognition and nutrition estimation.
 * 📊 Nutritional analysis (calories, macros)
 * ⚡ Achieved ~95% accuracy
 
-👉 *(Add your repo link here)*
+
 
 ---
 
