@@ -62,8 +62,8 @@ Deep learning-based system for food recognition and nutrition estimation.
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: *(Add your link)*
-* 📧 Email: *(Add your email)*
+* 💼 LinkedIn: Amogh Simha
+* 📧 Email: amoghsimha@gmail.com
 
 ---
 
